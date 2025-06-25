@@ -1,0 +1,11 @@
+{
+  "name": "automacao-ui-m11",
+  "version": "1.0.0",
+  "description": "Projeto de automação UI com Cypress",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
